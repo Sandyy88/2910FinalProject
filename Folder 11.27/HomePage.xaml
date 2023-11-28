@@ -1,0 +1,24 @@
+﻿<Page
+    x:Class="Demo4.Views.HomePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Style="{StaticResource PageStyle}"
+    mc:Ignorable="d">
+    <Grid x:Name="ContentArea" Margin="{StaticResource MediumLeftRightMargin}">
+        <Grid
+            Background="{ThemeResource SystemControlPageBackgroundChromeLowBrush}">
+            <!--
+                The SystemControlPageBackgroundChromeLowBrush background represents where you should place your content. 
+                Place your content here.
+            -->
+            <TextBlock VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="30">
+                <Bold>PROFILE:</Bold>
+            </TextBlock>
+
+            <TextBlock x:Name="userEmailTextBlock" Visibility="Collapsed" Text="Profile"/>
+            <Button x:Name="loginButton" Content="Login with Spotify" Click="LoginButton_Click" HorizontalAlignment="Center"/>
+        </Grid>
+    </Grid>
+</Page>
