@@ -693,7 +693,7 @@
                                                           VerticalAlignment="Center"
                                                           Style='{StaticResource AppBarButtonStyle}'></AppBarButton>
                                             <AppBarButton x:Name='FileButton'
-                                                          Icon="Mail"
+                                                          Icon="Folder"
                                                           Label="File"
                                                           VerticalAlignment="Center"
                                                           Style='{StaticResource AppBarButtonStyle}'></AppBarButton>
