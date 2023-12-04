@@ -1,0 +1,57 @@
+﻿<Page
+    x:Class="Demo5.Views.SoundBoardPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Style="{StaticResource PageStyle}"
+    mc:Ignorable="d">
+
+    <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Visible">
+        <Grid x:Name="ContentArea" Margin="{StaticResource MediumLeftRightMargin}">
+            <Grid Background="{ThemeResource SystemControlPageBackgroundChromeLowBrush}">
+                <Grid Margin="-24,0,-28,0" RequestedTheme="Light">
+                    <Grid.Background>
+                        <ImageBrush ImageSource="/Assets/gallery_background.jpg"/>
+                    </Grid.Background>
+
+                    <Button Name="Button1" Foreground="White" Margin="125,100,0,0" VerticalAlignment="Top" Click="Button1_Click" FontFamily="Showcard Gothic" RequestedTheme="Light">
+                        <SymbolIcon Symbol="Help" Height="91" Width="119"/>
+                    </Button>
+
+                    <Button Name="Button2" Foreground="White" Margin="325,100,0,0" VerticalAlignment="Top" Click="Button2_Click" FontFamily="Showcard Gothic" RequestedTheme="Light">
+                        <SymbolIcon Symbol="Help" Height="91" Width="119"/>
+                    </Button>
+
+                    <Button Name="Button3" Foreground="White" Margin="525,100,0,0" VerticalAlignment="Top" Click="Button3_Click" FontFamily="Showcard Gothic" RequestedTheme="Light">
+                        <SymbolIcon Symbol="Help" Height="91" Width="119"/>
+                    </Button>
+
+                    <Button Name="Button4" Foreground="White" Margin="725,100,0,0" VerticalAlignment="Top" Click="Button4_Click" FontFamily="Showcard Gothic" RequestedTheme="Light">
+                        <SymbolIcon Symbol="Help" Height="91" Width="119"/>
+                    </Button>
+
+                    <Button Name="Button5" Foreground="White" Margin="125,300,0,0" VerticalAlignment="Top" Click="Button5_Click" FontFamily="Showcard Gothic" RequestedTheme="Light">
+                        <SymbolIcon Symbol="Help" Height="91" Width="119"/>
+                    </Button>
+
+                    <Button Name="Button6" Foreground="White" Margin="325,300,0,0" VerticalAlignment="Top" Click="Button6_Click" FontFamily="Showcard Gothic" RequestedTheme="Light">
+                        <SymbolIcon Symbol="Help" Height="91" Width="119"/>
+                    </Button>
+
+                    <Button Name="Button7" Foreground="White" Margin="525,300,0,0" VerticalAlignment="Top" Click="Button7_Click" FontFamily="Showcard Gothic" RequestedTheme="Light">
+                        <SymbolIcon Symbol="Help" Height="91" Width="119"/>
+                    </Button>
+
+                    <Button Name="Button8" Foreground="White" Margin="725,300,0,0" VerticalAlignment="Top" Click="Button8_Click" FontFamily="Showcard Gothic" RequestedTheme="Light">
+                        <SymbolIcon Symbol="Help" Height="91" Width="119"/>
+                    </Button>
+
+                </Grid>
+            </Grid>
+        </Grid>
+    </ScrollViewer>
+</Page>
+
+
+

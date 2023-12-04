@@ -1,0 +1,10 @@
+C:\Users\mejia\source\repos\Demo5\Demo5.Core\bin\Debug\netstandard2.0\Demo5.Core.deps.json
+C:\Users\mejia\source\repos\Demo5\Demo5.Core\bin\Debug\netstandard2.0\Demo5.Core.dll
+C:\Users\mejia\source\repos\Demo5\Demo5.Core\bin\Debug\netstandard2.0\Demo5.Core.pdb
+C:\Users\mejia\source\repos\Demo5\Demo5.Core\obj\Debug\netstandard2.0\Demo5.Core.csproj.AssemblyReference.cache
+C:\Users\mejia\source\repos\Demo5\Demo5.Core\obj\Debug\netstandard2.0\Demo5.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mejia\source\repos\Demo5\Demo5.Core\obj\Debug\netstandard2.0\Demo5.Core.AssemblyInfoInputs.cache
+C:\Users\mejia\source\repos\Demo5\Demo5.Core\obj\Debug\netstandard2.0\Demo5.Core.AssemblyInfo.cs
+C:\Users\mejia\source\repos\Demo5\Demo5.Core\obj\Debug\netstandard2.0\Demo5.Core.csproj.CoreCompileInputs.cache
+C:\Users\mejia\source\repos\Demo5\Demo5.Core\obj\Debug\netstandard2.0\Demo5.Core.dll
+C:\Users\mejia\source\repos\Demo5\Demo5.Core\obj\Debug\netstandard2.0\Demo5.Core.pdb

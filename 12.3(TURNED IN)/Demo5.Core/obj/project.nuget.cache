@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fck2+dkjBXBkGtWCp/Tn6ILGj/vf3sYpfRLBf4DsZv3WZw2xDt5WK4L6JIzBYuRK3Plhm8XlRhGdeouRowViLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mejia\\source\\repos\\Demo5\\Demo5.Core\\Demo5.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mejia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mejia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\mejia\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json' 12.0.3 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+MainPackage=C:\Users\mejia\source\repos\Demo5\Demo5\bin\x64\Debug\Demo5_1.0.7.0_x64_Debug.msix
+SymbolPackage=C:\Users\mejia\source\repos\Demo5\Demo5\obj\x64\Debug\Symbols\Demo5_1.0.7.0_x64_Debug.appxsym
